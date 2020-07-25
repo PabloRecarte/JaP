@@ -1,7 +1,7 @@
 [
     {
         "name": "Autos",
-        "description": "Los mejores precios en autos o kilometro, de alta y media gama.",
+        "description": "Los mejores precios en autos 0 kilometro, de alta y media gama.",
         "cost": 13500,
         "currency": "USD",
         "imgSrc": "img/cat1.jpg",
